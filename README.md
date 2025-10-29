@@ -12,7 +12,8 @@ It’s designed for gamers who want to keep an eye on their gaming habits withou
 
 🚀 Getting Started (Very Easy)
 1. Clone or download this repository
-git clone https://github.com/<WaveEyyy>/staxus.git
+
+git clone https://github.com/WaveEyyy/staxus.git
 cd staxus
 
 2. Open "staxus_build_01.py" file with an IDE (Visual Studio Code or similar)
@@ -60,5 +61,5 @@ This project is licensed under the MIT License
 
 💡 Credits
 
-Developed with 💙 by (Nexus Labs)
+Developed with 💙 by WAVEEYYY at (Nexus Labs)
 Discord bot concept and code logic inspired by love for gaming and automation.
