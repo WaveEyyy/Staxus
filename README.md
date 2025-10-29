@@ -60,6 +60,5 @@ This project is licensed under the MIT License
 .
 
 💡 Credits
-
 Developed with 💙 by WAVEEYYY at (Nexus Labs)
 Discord bot concept and code logic inspired by love for gaming and automation.
